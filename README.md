@@ -4,6 +4,13 @@ This folder contains **nine Claude agent skills** distilled from Jeffrey Sonnenf
 Tian's *Trump's Ten Commandments: Strategic Lessons from the Trump Leadership Toolbox* (2025),
 produced using the `distill-to-skill` framework (v0.2).
 
+> **Disclaimer.** This is an independent set of operational notes inspired by the book. It is
+> **not affiliated with, authorized, or endorsed by** Jeffrey Sonnenfeld, Steven Tian, or their
+> publisher. All credit for the underlying analysis belongs to the authors. These skills are
+> intentionally operational and partial — they are not a substitute for the book's full argument,
+> evidence, and case studies. If this material is useful to you, please buy the book:
+> [*Trump's Ten Commandments* on Amazon](https://www.amazon.com/Trumps-Ten-Commandments-Strategic-Leadership/dp/1637635567/).
+
 ## What this is
 
 Each skill is a self-contained folder with runtime-loadable instructions for a Claude agent. The
